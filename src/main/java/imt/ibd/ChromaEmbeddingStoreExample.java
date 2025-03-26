@@ -1,3 +1,5 @@
+package imt.ibd;
+
 import static dev.langchain4j.internal.Utils.randomUUID;
 
 import dev.langchain4j.data.embedding.Embedding;

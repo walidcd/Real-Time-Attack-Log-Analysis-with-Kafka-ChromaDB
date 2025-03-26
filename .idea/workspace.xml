@@ -5,31 +5,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="535ef338-fde1-4f45-bdc8-9ced551ba077" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/Chroma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/ChromaEmbeddingStoreExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/ChromaEmbeddingStoreWithMetadataExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/ChromaInserter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/ChromaSearcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/LogConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/LogProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/PDFParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/PDFQuestionAnswering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/PDFTextLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/SimpleQuestionAnswering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/imt/ibd/TextFileLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2s3VxWzrYWWdmGEEcfXhKRyYZ6e" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ChromaEmbeddingStoreExample.executor": "Run",
+    "Application.LogConsumer.executor": "Run",
+    "Application.LogProducer.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.PDFQuestionAnswering.executor": "Run",
+    "Application.SimpleQuestionAnswering.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,7 +79,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737684493349</updated>
-      <workItem from="1737684494779" duration="7000" />
+      <workItem from="1737684494779" duration="4600000" />
+      <workItem from="1737714927777" duration="1000" />
+      <workItem from="1737715087232" duration="6275000" />
     </task>
     <servers />
   </component>
